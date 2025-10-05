@@ -5,8 +5,8 @@ This repository contains two Python machine learning projects:
 - **Regression** → Predicting continuous values
 
 ## 📂 Structure
-- `classification/` → Contains classification notebook and dataset  
-- `regression/` → Contains regression notebook  
+→ Contains classification notebook and dataset  
+→ Contains regression notebook  
 - `requirements.txt` → Python dependencies  
 - `.gitignore` → Keeps local environments out of version control  
 
